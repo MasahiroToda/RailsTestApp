@@ -1,0 +1,2 @@
+# RailsTestApp
+SamplePrivateApp
